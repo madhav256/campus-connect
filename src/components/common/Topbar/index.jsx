@@ -9,9 +9,6 @@ export default function Topbar() {
     <div className="topbar-main">
         <img className="campusconnect-logo" src={campusconnectLogo} alt="Campus Connect logo" />
         <FaBeer />
-        <div>
-          Hello
-        </div>
     </div>
   );
 }
